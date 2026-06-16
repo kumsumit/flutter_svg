@@ -5,7 +5,7 @@
   "packages": [
     {
       "name": "flutter_svg",
-      "version": "2.2.4",
+      "version": "2.3.0",
       "dependencies": [
         "flutter",
         "http",
@@ -92,7 +92,7 @@
     },
     {
       "name": "meta",
-      "version": "1.17.0",
+      "version": "1.18.3",
       "dependencies": []
     },
     {
@@ -113,7 +113,7 @@
     },
     {
       "name": "vector_math",
-      "version": "2.2.0",
+      "version": "2.4.0",
       "dependencies": []
     },
     {
@@ -143,7 +143,7 @@
     },
     {
       "name": "matcher",
-      "version": "0.12.19",
+      "version": "0.12.20",
       "dependencies": [
         "async",
         "meta",
@@ -154,7 +154,7 @@
     },
     {
       "name": "test_api",
-      "version": "0.7.10",
+      "version": "0.7.12",
       "dependencies": [
         "async",
         "boolean_selector",
